@@ -7,19 +7,19 @@ class Linkrot < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/hans2103/linkrot/releases/download/v0.2.2/linkrot-darwin-arm64"
-      sha256 "63952654f63555d8a00314237388b8fb8b609a1b53e14e27e928a36161c0f124"
+      url "https://github.com/hans2103/linkrot/releases/download/v0.3.0/linkrot-darwin-arm64"
+      sha256 "1f73281a8ae69f3440ce35d9b5e13aee4b11fd0adcd73dfb58302529645337c8"
     end
     on_intel do
-      url "https://github.com/hans2103/linkrot/releases/download/v0.2.2/linkrot-darwin-x64"
-      sha256 "fb8a4598424a2a2e4d29899d5c22b24d5aab5e77d35ec5ca20eab1a2bb85eab6"
+      url "https://github.com/hans2103/linkrot/releases/download/v0.3.0/linkrot-darwin-x64"
+      sha256 "8b8d9427fe1f89365371d4771ae7256dcabb4bb0ca23a74c1438976d0b1c0b04"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/hans2103/linkrot/releases/download/v0.2.2/linkrot-linux-x64"
-      sha256 "b565c3027017c30873d03743f80886a51e4c79495ade5b7c13f5e53a75591900"
+      url "https://github.com/hans2103/linkrot/releases/download/v0.3.0/linkrot-linux-x64"
+      sha256 "ab10b6308f442a00b9d3f43a86626e5a0c0de2112162543a2c06163ca8f7fd6e"
     end
   end
 
